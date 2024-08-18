@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Домашня сторінка
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Дисципліни цього семестру
+1. [[Екологія/]]
+2. [[Кібернетика/]]
+3. [[Методи дослідження операцій/]]
+4. [[Науково-дослідна діяльність/]]
+5. [[Політологія/]]
+6. [[Теорія керування/]]
